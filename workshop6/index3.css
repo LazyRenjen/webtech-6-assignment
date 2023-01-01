@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Oswald:wght@200&family=Roboto+Slab:wght@100;300&family=Seymour+One&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: forestgreen;
+}
+.two-side{
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+}
+.leftside{
+    color: floralwhite;
+    width: 50%;
+}
+
+.p1{
+    padding: 5%;
+    margin: 5%;
+    font-size: 90px;
+    font-weight: bold;
+}
+.p2{
+    padding: 5%;
+    margin: 5%;
+    font-size: 30px;
+}
+.p3{
+    padding: 5%;
+    margin: 5%;
+    font-size: 30px;
+}
+
+.button {
+    padding: 5%;
+    margin: 5%;
+} 
+ .button a {
+    display: inline-flex;
+    padding: 10px 45px;
+    background: rgb(60, 229, 18);
+    border-radius: 50px;
+    color: #334729;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 800;
+    
+  }
+.img img{ 
+    padding-inline-start: 20%;
+    height: 100%;
+    width: 100%;
+}
+

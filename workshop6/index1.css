@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Oswald:wght@200&display=swap');
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+body{
+    font-size: 150%;
+    text-align: center;
+    background-color: #fc9003;
+    padding-top: 5%;
+}
+
+.container{
+   padding-top: 5%;
+   display: flex;
+}
+
+.box1{
+    font-size: larger;
+    color: #000A;
+    padding-right: 5%;
+    margin: 0%;
+}
+
+
+.box2{
+    font-size: larger;
+    color: #000A;
+    margin: 0%;
+    padding-left:6%;
+}
+
+.box3{
+    font-size: larger;
+    color: rgba(3, 3, 3, 0.667);
+    padding-left: 6.1%;
+
+}
+
+.img img{
+    width: 400px;
+    height: 300px;
+}
